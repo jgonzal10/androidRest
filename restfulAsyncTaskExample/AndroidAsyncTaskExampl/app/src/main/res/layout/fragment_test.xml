@@ -1,0 +1,15 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.level33.com.androidasynctaskexampl.TestFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/myTextView"
+        android:layout_width="match_parent"
+        android:layout_height="@string/default_text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</ScrollView>
